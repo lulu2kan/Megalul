@@ -30,23 +30,23 @@
 ## Состав команды
 * ИДМ-22-03:
 
-[Козарезов Денис](https://github.com/DenisKozarezov) - БА (бизнес-анализ)
+  * [Козарезов Денис](https://github.com/DenisKozarezov) - БА (бизнес-анализ)
 
-[Крупенко Илья](https://github.com/Kolyamba2007) - НИ (научные исследования)
+  * [Крупенко Илья](https://github.com/Kolyamba2007) - НИ (научные исследования)
 
-[Мавлоназаров Хушнуд](https://github.com/Raime-34) - СП (системное программирование)
+  * [Мавлоназаров Хушнуд](https://github.com/Raime-34) - СП (системное программирование)
 
-[Салип Даниил](https://github.com/Welpodron) - ПП (прикладное программирование)
+  * [Салип Даниил](https://github.com/Welpodron) - ПП (прикладное программирование)
 
 * ИДМ-22-05:
 
-** [Еремин Илья](https://github.com/lulu2kan) - РП (управление проектами),
+  * [Еремин Илья](https://github.com/lulu2kan) - РП (управление проектами),
 
-** [Заливалов Алексей](https://github.com/AlekseyGitPub) - АД (администрирование/тюнинг),
+  * [Заливалов Алексей](https://github.com/AlekseyGitPub) - АД (администрирование/тюнинг),
 
-** [Новосельцев Дмитрий](https://github.com/SuperEjik) - ВН (внедрение/продажи),
+  * [Новосельцев Дмитрий](https://github.com/SuperEjik) - ВН (внедрение/продажи),
 
-** [Чернат Николай](https://github.com/DivineLoggika) - КО (консалтинг/обучение).
+  * [Чернат Николай](https://github.com/DivineLoggika) - КО (консалтинг/обучение).
 
 
 Распределение ролей также показано в Google-таблице: [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1891559469)
