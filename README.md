@@ -62,7 +62,7 @@
 Распределение ролей также показано в Google-таблице: [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1891559469)
 ## Проект
 ## Дополнительные материалы
-* Скрам доска
-* Расписание
+* [Скрам доска](https://miro.com/app/board/uXjVPM9rb_o=/)
+* [План разработки](https://docs.google.com/spreadsheets/d/1oeS_MeJXVaCrtqVR7emAxf6AlEX5A0O3ty9tePZ2A90/edit?usp=sharing)
 
 end
