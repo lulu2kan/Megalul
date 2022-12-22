@@ -52,7 +52,7 @@
    + JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов React.
 ## Состав команды
 * **ИДМ-22-03:**
-  * [Козарезов Денис](https://github.com/DenisKozarezov) - БА (бизнес-анализ)
+  * [Козарезов Денис](https://deniskozarezov.github.io/) - БА (бизнес-анализ)
   * [Крупенко Илья](https://github.com/Kolyamba2007) - НИ (научные исследования)
   * [Мавлоназаров Хушнуд](https://github.com/Raime-34) - СП (системное программирование)
   * [Салип Даниил](https://github.com/Welpodron) - ПП (прикладное программирование)
@@ -68,5 +68,3 @@
 ## Дополнительные материалы
 * [Скрам доска](https://miro.com/app/board/uXjVPM9rb_o=/)
 * [План разработки](https://docs.google.com/spreadsheets/d/1oeS_MeJXVaCrtqVR7emAxf6AlEX5A0O3ty9tePZ2A90/edit?usp=sharing)
-
-end
